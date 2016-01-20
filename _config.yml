@@ -1,0 +1,13 @@
+# Site settings
+title: Handheld Breadcrumbs
+youtubeurl: https://www.youtube.com/c/jurisKaste 
+youtubename: Handheld Breadcrumbs    
+description: ""
+baseurl: ""
+url: "http://handheldbreadcrumbs.github.io"
+twitter_username: dudewithapalm
+github_username:  wolf3d
+
+# Build settings
+markdown: kramdown
+permalink: pretty
