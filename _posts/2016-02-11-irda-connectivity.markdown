@@ -5,7 +5,7 @@ date:   2016-02-11 22:09:56
 categories: hotsync irda pda handspring
 ---
 
-It's a year 2016 and I am attempting to synchronize PDA from early two thousands with my pc. This is more or less a memo for myself. I am sitting on Debian flavor of linux and so far I have read a bunch or articles on topic that I found googling the internet. It is fortunate or not so fortunate for me, nowadays it is easier to setup IrDA connectivity and most of the things just work right off the bat without much struggle.  
+It's a year 2016 and I am attempting to synchronize PDA from early two thousands with my pc. This is more or less a memo for myself. I am sitting on Debian flavor of linux and so far I have read a bunch of articles on topic that I found googling the internet. It is fortunate or not so fortunate for me nowadays it is easier to setup IrDA connectivity and most of the things just work right off the bat without much struggle.  
 I did all this experimenting on freshly installed system and just before started to setup basic configuration I checked few things. In short one needs to install irda-utils,pilot-link packages as root, add your ordinary user to dialout group and then reboot. After reboot plugin IrDA to USB dongle and check dmesg for any issues that could appear and in case of no problems find out with what device name dongle was registered. Again as root load such kernel modules exactly in this order irda, ircomm, ircomm-tty and execute irattach <device name> -s. In this case device name was irda0.
 {% highlight bash %}
 wolf@chimp:~$ 
@@ -164,11 +164,14 @@ wolf@chimp:~$ ls -l /dev/ircomm?
 ls: cannot access /dev/ircomm?: No such file or directory
 wolf@chimp:~$ 
 {% endhighlight %}
+
+add irda kernel module with modprobe
+
 {% highlight bash %}
 root@chimp:~# 
 root@chimp:~# modprobe irda
 {% endhighlight %}
-checking dmesg
+checking dmesg and add ircomm kernel module with modprobe
 {% highlight bash %}
 wolf@chimp:~$ 
 wolf@chimp:~$ dmesg | tail
@@ -201,6 +204,9 @@ wolf@chimp:~$ dmesg | tail
 [  907.882011] IrCOMM protocol (Dag Brattli)
 wolf@chimp:~$ 
 {% endhighlight %}
+
+add ircomm-tty module
+
 {% highlight bash %}
 wolf@chimp:~$ 
 wolf@chimp:~$ ls -l /dev/ttyS?
@@ -247,6 +253,9 @@ crw-rw---- 1 root dialout 161, 8 Feb  6 12:54 /dev/ircomm8
 crw-rw---- 1 root dialout 161, 9 Feb  6 12:54 /dev/ircomm9
 wolf@chimp:~$
 {% endhighlight %}
+
+and finally bind the Linux-IrDA stack to a IrDA port, use irda0 interface name and start discovery of remote IrDA devices
+
 {% highlight bash %}
 root@chimp:~# 
 root@chimp:~# irattach irda0 -s
@@ -305,3 +314,14 @@ wolf@chimp:~$ pilot-xfer -p /dev/ircomm0 -l
 wolf@chimp:~$ 
 {% endhighlight %}
 I think that this setup was successful.
+
+reference links:  
+[https://help.ubuntu.com/community/IrdaHowto](https://help.ubuntu.com/community/IrdaHowto){:target="_blank"}
+[http://irda.sourceforge.net/docs/advanced.html](http://irda.sourceforge.net/docs/advanced.html){:target="_blank"}
+[http://web.archive.org/web/20040104125306/http://howto.pilot-link.org/irdasync/ca.html](http://web.archive.org/web/20040104125306/http://howto.pilot-link.org/irdasync/ca.html){:target="_blank"}  
+[https://www.mail-archive.com/linux-irda@server.pasta.cs.uit.no/msg01377.html](https://www.mail-archive.com/linux-irda@server.pasta.cs.uit.no/msg01377.html){:target="_blank"}  
+[http://www.tldp.org/HOWTO/Infrared-HOWTO/infrared-howto-s-terminal-palm.html](http://www.tldp.org/HOWTO/Infrared-HOWTO/infrared-howto-s-terminal-palm.html){:target="_blank"}
+[http://linux.die.net/man/8/irattach](http://linux.die.net/man/8/irattach){:target="_blank"}
+[http://unix.stackexchange.com/questions/29570/how-do-i-remove-a-user-from-a-group](http://unix.stackexchange.com/questions/29570/how-do-i-remove-a-user-from-a-group){:target="_blank"}
+[http://www.cyberciti.biz/faq/linux-show-the-status-of-modules-driver/](){:target="_blank"}
+
