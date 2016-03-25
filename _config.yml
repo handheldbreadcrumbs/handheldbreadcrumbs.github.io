@@ -1,6 +1,7 @@
 # --- General options --- #
 
 gems: [jekyll-paginate]
+future: true
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
@@ -74,11 +75,11 @@ url-pretty: "handheldbreadcrumbs"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Latvia"
+timezone: "Europe/Riga"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 2
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
