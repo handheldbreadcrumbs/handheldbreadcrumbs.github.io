@@ -3,6 +3,30 @@ layout: post
 title:  "Palm Navigator"
 date:   2016-03-25 12:09:56
 categories: palm gadgets navigation
+
+gallery_title: "palm navigator"
+gallery:
+  - background_image_path: assets/palmnavigator/01.jpg
+    main_heading:
+    data-lightbox: palmNavigator
+    data-title:
+    img-class: palmNavigator
+  - background_image_path: assets/palmnavigator/02.jpg
+    main_heading: 
+    data-lightbox: palmNavigator
+    data-title:
+    img-class: palmNavigator
+  - background_image_path: assets/palmnavigator/03.jpg
+    main_heading: 
+    data-lightbox: palmNavigator
+    data-title:
+    img-class: palmNavigator
+  - background_image_path: assets/palmnavigator/04.jpg
+    main_heading:
+    data-lightbox: palmNavigator
+    data-title:
+    img-class: palmNavigator
+
 ---
 
 This morning I noticed interesting lot on ebay, at first it seemed
@@ -18,6 +42,21 @@ in the past and it has received good
 feedback<sup>[[2]](http://www.verycomputer.com/21_5d90b8c63ca38561_1.htm){:target="_blank"}</sup>
 I am wondering if software for this device is still available, since it is
 possible to check it in demo mode even without having the compass itself.
+
+{% if page.gallery != blank %}
+<div class=".gallery">
+<ul id="" class="list-unstyled row">
+  {% for item in page.gallery %}
+<li class="col-xs-6 col-sm-4 col-md-3">
+<a href="{{ site.url }}/{{ item.background_image_path }}" target="_blank">
+<img class="{{ item.img-class }}" src="{{ site.url }}/{{ item.background_image_path }}" alt=""/>
+</a>
+</li>
+  {% endfor %}
+</ul>
+</div>
+{% endif %}
+
 
 
 references:  
