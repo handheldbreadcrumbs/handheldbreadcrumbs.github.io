@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Rare Sony's CLIE PEG SJ-33"
+date:   2016-04-02 22:51:56
+categories: sony gadgets clie peg-sj33
+
+gallery_title: "Sony CLIE PEG SJ-33"
+gallery:
+  - background_image_path: assets/raresonycliepegsj33/01.jpg
+    main_heading:
+    data-lightbox: sonyCliePegSj33
+    data-title:
+    img-class: raresonyCliePegSj33
+  - background_image_path: assets/raresonycliepegsj33/07.jpg
+    main_heading:
+    data-lightbox: sonyCliePegSj33
+    data-title:
+    img-class: raresonyCliePegSj33
+  - background_image_path: assets/raresonycliepegsj33/08.jpg
+    main_heading:
+    data-lightbox: sonyCliePegSj33
+    data-title:
+    img-class: raresonyCliePegSj33
+  - background_image_path: assets/raresonycliepegsj33/09.jpg
+    main_heading:
+    data-lightbox: sonyCliePegSj33
+    data-title:
+    img-class: raresonyCliePegSj33
+  - background_image_path: assets/raresonycliepegsj33/10.jpg
+    main_heading:
+    data-lightbox: sonyCliePegSj33
+    data-title:
+    img-class: raresonyCliePegSj33
+  - background_image_path: assets/raresonycliepegsj33/11.jpg
+    main_heading:
+    data-lightbox: sonyCliePegSj33
+    data-title:
+    img-class: raresonyCliePegSj33
+  - background_image_path: assets/raresonycliepegsj33/12.jpg
+    main_heading:
+    data-lightbox: sonyCliePegSj33
+    data-title:
+    img-class: raresonyCliePegSj33
+
+---
+
+Interesting example of Sony's CLIE PEG SJ-33.
+
+{% if page.gallery != blank %}
+<div class=".gallery">
+<ul id="" class="list-unstyled row">
+  {% for item in page.gallery %}
+<li class="col-xs-6 col-sm-4 col-md-3">
+<a href="{{ site.url }}/{{ item.background_image_path }}" target="_blank">
+<img class="{{ item.img-class }}" src="{{ site.url }}/{{ item.background_image_path }}" alt=""/>
+</a>
+</li>
+  {% endfor %}
+</ul>
+</div>
+{% endif %}
+
