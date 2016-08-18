@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Neko for Pilot"
+date:   2016-08-18 21:00:56
+categories: neko palmos cat
+---
+
+Few weeks ago my workstation failed to boot. I was not able to update my blog, still have not sorted it out and not sure  
+if I am able to, guess I will need to think about new system,
+but the post it not about it that's for sure. Prior to that unfortunate event I was working on Docker image for Palm OS 3.1 - [palmos.sdk.3.1](https://github.com/wolf3d/palmos.sdk.3.1)  
+which is based on my experimental wolf3d/debian.4.0-etch image. In the process of making all this - quick & dirty Bash script for Debian was born [https://github.com/wolf3d/debian-scripts/blob/master/setup-palmos-sdk](https://github.com/wolf3d/debian-scripts/blob/master/setup-palmos-sdk). By default it setups Palm OS 3.1 development environment.  
+I managed to setup github repository for "Neko for Pilot" [https://github.com/wolf3d/neko-for-pilot](https://github.com/wolf3d/neko-for-pilot), originally developed by Hoshi Takanori. I found sources from [http://web.archive.org/web/20080506160059/http://www.sra.co.jp/people/hoshi/neko.html](http://web.archive.org/web/20080506160059/http://www.sra.co.jp/people/hoshi/neko.html), it needs Palm OS 3.1 to compile,
+and integration with Travis CI - [https://travis-ci.org/wolf3d/neko-for-pilot](https://travis-ci.org/wolf3d/neko-for-pilot) .  
+It even has its first [release](https://github.com/wolf3d/neko-for-pilot/releases) which builds with success, yay - [![Build Status](https://travis-ci.org/wolf3d/neko-for-pilot.svg?branch=master)](https://travis-ci.org/wolf3d/neko-for-pilot)
+I am planning to make setup-palmos-sdk script more universal - so eventually one could setup any Palm OS version with it.
