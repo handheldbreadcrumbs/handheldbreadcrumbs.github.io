@@ -12,4 +12,4 @@ date:   2016-09-27 19:34:56
 * item one
 
 ### Personal Pages
-* item one
+* Ted's Pilot Page - [http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html) - added 2016.09.29
