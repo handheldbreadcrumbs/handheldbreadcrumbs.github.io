@@ -6,10 +6,13 @@ date:   2016-09-27 19:34:56
 ---
 
 ### Articles
-* Pen Computing - TRG pro - [http://web.archive.org/web/19991129054030/http://www.pencomputing.com/palm/Reviews/trgpro.html](http://web.archive.org/web/19991129054030/http://www.pencomputing.com/palm/Reviews/trgpro.html) - added 2016.09.28
+* Pen Computing - TRG pro - [http://web.archive.org/web/19991129054030/http://www.pencomputing.com/palm/Reviews/trgpro.html](http://web.archive.org/web/19991129054030/http://www.pencomputing.com/palm/Reviews/trgpro.html){:target="_blank"} - added 2016.09.28
 
 ### Software      
-* COSMAL ELF - [http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm](http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm) - added 2016.09.29
+* COSMAL ELF - [http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm](http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm){:target="_blank"} - added 2016.09.29
 
 ### Personal Pages
-* Ted's Pilot Page - [http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html) - added 2016.09.29
+* Ted's Pilot Page - [http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html){:target="_blank"} - added 2016.09.29
+
+### Palm Programming
+* Pilot Software Development - [http://web.archive.org/web/19981207014821/http://www.massena.com/darrin/pilot/index.html](http://web.archive.org/web/19981207014821/http://www.massena.com/darrin/pilot/index.html){:target="_blank"} - added 2016.09.30
