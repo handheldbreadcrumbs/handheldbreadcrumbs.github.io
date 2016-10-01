@@ -16,3 +16,4 @@ date:   2016-09-27 19:34:56
 
 ### Palm Programming
 * Pilot Software Development - [http://web.archive.org/web/19981207014821/http://www.massena.com/darrin/pilot/index.html](http://web.archive.org/web/19981207014821/http://www.massena.com/darrin/pilot/index.html){:target="_blank"} - added 2016.09.30
+* [Wade's Pilot Programming FAQ](http://web.archive.org/web/19980614103130/http://www.wademan.com/Pilot/Program/FAQ.htm){:target="_blank"} - added 2016.10.01
