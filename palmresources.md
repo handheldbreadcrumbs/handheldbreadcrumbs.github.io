@@ -14,6 +14,7 @@ date:   2016-09-27 19:34:56
 
 ### Personal Pages
 * Ted's Pilot Page - [http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html){:target="_blank"} - added 2016.09.29
+* [Andrew's Pilot Page](http://web.archive.org/web/19981206010148/http://www.iosphere.net/~howlett/pilot/){:target="_blank"} - added 2016.10.02
 
 ### Palm Programming
 * Pilot Software Development - [http://web.archive.org/web/19981207014821/http://www.massena.com/darrin/pilot/index.html](http://web.archive.org/web/19981207014821/http://www.massena.com/darrin/pilot/index.html){:target="_blank"} - added 2016.09.30
