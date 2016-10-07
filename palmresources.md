@@ -57,7 +57,7 @@ date:   2016-09-27 19:34:56
 * [Ysuzuki's pilot dock](http://web.archive.org/web/19990203072706/http://www.gix.or.jp/~ysuzuki/){:target="_blank"} - in Japanese - added 2016.10.05
 
 ### Palm Programming
-* Pilot Software Development - [http://web.archive.org/web/19981207014821/http://www.massena.com/darrin/pilot/index.html](http://web.archive.org/web/19981207014821/http://www.massena.com/darrin/pilot/index.html){:target="_blank"} - added 2016.09.30
+* [Darrin Massena's Pilot Software Development](http://web.archive.org/web/19981207014821/http://www.massena.com/darrin/pilot/index.html){:target="_blank"} - added 2016.09.30
 * [Wade's Pilot Programming FAQ](http://web.archive.org/web/19980614103130/http://www.wademan.com/Pilot/Program/FAQ.htm){:target="_blank"} - added 2016.10.01
 * [PalmOs 3.5 Programming - Using the GNU C compiler](http://web.archive.org/web/20050610082349/http://membres.lycos.fr/pbriol/palmos/gcc.html){:target="_blank"} - added 2016.10.02
 * [Palm Programing Tutorial](http://web.archive.org/web/20030110032033/http://www.ligfiets.net/toni/palm/tutorial/uk/){:target="_blank"} - added 2016.10.02
