@@ -24,7 +24,6 @@ date:   2016-09-27 19:34:56
 * [Dave MacLeod's Pilot Page](http://web.archive.org/web/19990420202243/http://www.netcomuk.co.uk/~davmac/pilot.htm){:target="_blank"} - added 2016.10.05
 * [David A. Wheeler's - Suggestions for Palm-based PDA Users](http://web.archive.org/web/20141224222752/http://www.dwheeler.com/palm-suggest.html){:target="_blank"} - added 2016.10.05
 * [David Lindes' Pilot Software Page](http://web.archive.org/web/20150404200052/http://www.daveltd.com/pilot/){:target="_blank"} - added 2016.10.05
-* [Diego Zamboni](http://web.archive.org/web/20000818231749/http://www.cerias.purdue.edu/homes/zamboni/){:target="_blank"} - added 2016.10.05
 * [Eclipse's PalmPilot Page](http://web.archive.org/web/20160131195959/http://www.urbin.net/EWW/etext/eclipse/palmpilot.html){:target="_blank"} - added 2016.10.05
 * [Fredlet's Pilot page](http://web.archive.org/web/20000612005129/http://www.fredlet.com/palm/pilot.htm){:target="_blank"} - added 2016.10.05
 * [Georg's Pilot Pages](http://web.archive.org/web/19990224124200/http://www.westfalen.de/hugo/forth/index.html){:target="_blank"} - added 2016.10.05
@@ -40,11 +39,11 @@ date:   2016-09-27 19:34:56
 * [jeffy's Palm page](http://web.archive.org/web/20150112185602/http://tomecat.com/jeffy/palm.html){:target="_blank"} - added 2016.10.05
 * [JH Labs - Palm Stuff](http://web.archive.org/web/20160125232320/http://www.jhlabs.com/palm/){:target="_blank"} - added 2016.10.05
 * [Jolly's Pilot Page](http://web.archive.org/web/19990423033258/http://home.t-online.de/home/johler/pilot.html){:target="_blank"} - added 2016.10.05
-* [Kenji Kamio's page](http://web.archive.org/web/19990221152244/http://www2e.meshnet.or.jp/~kamio/){:target="_blank"} - added 2016.10.05
+* [Kenji Kamio's page](http://web.archive.org/web/19990221152244/http://www2e.meshnet.or.jp/~kamio/){:target="_blank"} - in Japanese - added 2016.10.05
 * [Malcom's USR (3Com) Pilot Tech Page](http://web.archive.org/web/19990219133534/http://homepages.ihug.co.nz/~malc/pilot.htm){:target="_blank"} - added 2016.10.05
 * [Michael Hall's - Palm and Linux: Making the Connection](http://web.archive.org/web/20011117155045/http://www.cstone.net/~mphall/pilot_linux.html){:target="_blank"} - added 2016.10.05
 * [Mike Baas - Favorite Programs](http://web.archive.org/web/20131220071145/http://mikebaas.org/programs/){:target="_blank"} - added 2016.10.05
-* [Muchy's Palmware Review!](http://web.archive.org/web/20000305122218/http://muchy.com/){:target="_blank"} - added 2016.10.05
+* [Muchy's Palmware Review!](http://web.archive.org/web/20000305122218/http://muchy.com/){:target="_blank"} - in Japanese - added 2016.10.05
 * [Ozaki's USR Pilot Page](http://web.archive.org/web/19970720091933/http://www.urban.or.jp/home/oz/pilot.htm){:target="_blank"} - in Japanese - added 2016.10.05
 * [Palm/Palm Pilot: Personal Experiences and Tips](http://web.archive.org/web/20150920201127/http://www.faughnan.com/palm.html){:target="_blank"} - added 2016.10.05
 * [Pamu Home main](http://web.archive.org/web/20160722223718/http://www.pamupamu.com/indexe.html){:target="_blank"} - added 2016.10.05
