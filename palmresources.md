@@ -6,14 +6,14 @@ date:   2016-09-27 19:34:56
 ---
 
 ### Articles
-* Pen Computing - TRG pro - [http://web.archive.org/web/19991129054030/http://www.pencomputing.com/palm/Reviews/trgpro.html](http://web.archive.org/web/19991129054030/http://www.pencomputing.com/palm/Reviews/trgpro.html){:target="_blank"} - added 2016.09.28
+* [Pen Computing - TRG pro](http://web.archive.org/web/19991129054030/http://www.pencomputing.com/palm/Reviews/trgpro.html){:target="_blank"} - added 2016.09.28
 
 ### Software      
-* COSMAL ELF - [http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm](http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm){:target="_blank"} - added 2016.09.29
+* [COSMAL ELF](http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm){:target="_blank"} - added 2016.09.29
 * [Scribble - Pilot's smallest graphics app](http://web.archive.org/web/19981205214849/http://www.iosphere.net/~howlett/pilot/scribble.html){:target="_blank"} - added 2016.10.02
 
 ### Personal Pages
-* Ted's Pilot Page - [http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html){:target="_blank"} - added 2016.09.29
+* [Ted's Pilot Page](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html){:target="_blank"} - added 2016.09.29
 * [Andrew's Pilot Page](http://web.archive.org/web/19981206010148/http://www.iosphere.net/~howlett/pilot/){:target="_blank"} - added 2016.10.02
 * [Ron Nicholson's Ancient Palm OS Computing Information Page](http://web.archive.org/web/20141224194937/http://www.nicholson.com/rhn/palm.html){:target="_blank"} - added 2016.10.03
 * [Aaron Ardiri's Palm Page](http://web.archive.org/web/20010718130351/http://www.ardiri.com/index.php?redir=palm){:target="_blank"} - added 2016.10.05
