@@ -9,7 +9,7 @@ date:   2016-09-27 19:34:56
 * [Pen Computing - TRG pro](http://web.archive.org/web/19991129054030/http://www.pencomputing.com/palm/Reviews/trgpro.html){:target="_blank"} - added 2016.09.28
 
 ### Software      
-* [COSMAL ELF](http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm){:target="_blank"} - added 2016.09.29
+* [COSMAC ELF](http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm){:target="_blank"} - added 2016.09.29
 * [Scribble - Pilot's smallest graphics app](http://web.archive.org/web/19981205214849/http://www.iosphere.net/~howlett/pilot/scribble.html){:target="_blank"} - added 2016.10.02
 
 ### Personal Pages
