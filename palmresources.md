@@ -61,5 +61,5 @@ date:   2016-09-27 19:34:56
 * [Wade's Pilot Programming FAQ](http://web.archive.org/web/19980614103130/http://www.wademan.com/Pilot/Program/FAQ.htm){:target="_blank"} - added 2016.10.01
 * [PalmOs 3.5 Programming - Using the GNU C compiler](http://web.archive.org/web/20050610082349/http://membres.lycos.fr/pbriol/palmos/gcc.html){:target="_blank"} - added 2016.10.02
 * [Palm Programing Tutorial](http://web.archive.org/web/20030110032033/http://www.ligfiets.net/toni/palm/tutorial/uk/){:target="_blank"} - added 2016.10.02
-* [Getting Started with Palm OS Development Using PRC-Tools on Windows by Jennifer Hodgdon](http://web.archive.org/web/20040229005540/http://www.poplarware.com/palmdev.html){:target="_blank"} - added 2016.10.02
+* [Getting Started with Palm OS Development on Windows by Jennifer Hodgdon](http://web.archive.org/web/20040229005540/http://www.poplarware.com/palmdev.html){:target="_blank"} - added 2016.10.02
 * [Welcome to the Palm OS Development FAQ](http://web.archive.org/web/20040402134534/http://flippinbits.com/twiki/bin/view/FAQ/WebHome){:target="_blank"} - added 2016.10.02
