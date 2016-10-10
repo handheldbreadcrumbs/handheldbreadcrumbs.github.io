@@ -11,6 +11,7 @@ date:   2016-09-27 19:34:56
 ### Software      
 * [COSMAC ELF](http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm){:target="_blank"} - added 2016.09.29
 * [Scribble - Pilot's smallest graphics app](http://web.archive.org/web/19981205214849/http://www.iosphere.net/~howlett/pilot/scribble.html){:target="_blank"} - added 2016.10.02
+* [SiEd - Text Editing for Palms](https://web.archive.org/web/20070323092635/http://benroe.com/sied/index.php){:target="_blank"} - added 2016.10.10
 
 ### Personal Pages
 * [Ted's Pilot Page](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html){:target="_blank"} - added 2016.09.29
