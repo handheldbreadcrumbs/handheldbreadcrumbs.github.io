@@ -7,7 +7,7 @@ date:   2016-09-27 19:34:56
 
 ### Articles
 * [Pen Computing - TRG pro](http://web.archive.org/web/19991129054030/http://www.pencomputing.com/palm/Reviews/trgpro.html){:target="_blank"} - added 2016.09.28
-* [Almanac for Piloteers]{http://web.archive.org/web/19990220215404/http://www.item.ntnu.no/~csurgay/pilot/almanac.html} - added 2016.10.28
+* [Almanac for Piloteers](http://web.archive.org/web/19990220215404/http://www.item.ntnu.no/~csurgay/pilot/almanac.html){:target="_blank"} - added 2016.10.28
 
 ### Software      
 * [COSMAC ELF](http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm){:target="_blank"} - added 2016.09.29
