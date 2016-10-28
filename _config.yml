@@ -27,6 +27,7 @@ description: TODO description
 # List of links in the navigation bar
 navbar-links:
   Palm related resources: "palmresources"
+  Archive: "archive"
   About Blog: "aboutme"
   #Resources:
   #  - link one: Beautiful Jekyll: ""
