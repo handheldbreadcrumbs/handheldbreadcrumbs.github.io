@@ -15,6 +15,7 @@ date:   2016-09-27 19:34:56
 * [SiEd - Text Editing for Palms](https://web.archive.org/web/20070323092635/http://benroe.com/sied/index.php){:target="_blank"} - added 2016.10.10
 * [The Palm Programmer's Cookbook. v0.7.2](http://web.archive.org/web/20161010205110/http://onboardc.sourceforge.net/cookbook.html){:target="_blank"} - added 2016.10.17
 * [Development Tools for PalmPilot](http://web.archive.org/web/20160125232736/http://hewgill.com/pilot/){:target="_blank"} - added 2016.10.17
+* [John Marshall's Palm OS Development Resources](http://web.archive.org/web/20060615021346/http://homepages.enterprise.net/jmarshall/palmos/){:target="_blank"} - added 2016.10.29
 
 ### Personal Pages
 * [Ted's Pilot Page](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html){:target="_blank"} - added 2016.09.29
