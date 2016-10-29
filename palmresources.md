@@ -24,6 +24,7 @@ date:   2016-09-27 19:34:56
 * [Andy's Pilot Page](http://web.archive.org/web/19980702045119/http://www.pilotpage.com/){:target="_blank"} - added 2016.10.05
 * [Bill's PalmPilot Page](http://web.archive.org/web/19971021171107/http://www.electronhut.com/pilot/){:target="_blank"} - added 2016.10.05
 * [Bray Palm OS Page](http://web.archive.org/web/20150104101218/http://davidbray.org/palm/){:target="_blank"} - added 2016.10.05
+* [Calvin's PalmPilot FAQ](http://web.archive.org/web/19980115010500/http://pilotfaq.com/){:target="_blank"} - added 2016.09.29
 * [Dave MacLeod's Pilot Page](http://web.archive.org/web/19990420202243/http://www.netcomuk.co.uk/~davmac/pilot.htm){:target="_blank"} - added 2016.10.05
 * [David A. Wheeler's - Suggestions for Palm-based PDA Users](http://web.archive.org/web/20141224222752/http://www.dwheeler.com/palm-suggest.html){:target="_blank"} - added 2016.10.05
 * [David Lindes' Pilot Software Page](http://web.archive.org/web/20150404200052/http://www.daveltd.com/pilot/){:target="_blank"} - added 2016.10.05
