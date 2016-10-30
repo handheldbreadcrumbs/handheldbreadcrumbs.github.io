@@ -20,6 +20,7 @@ date:   2016-09-27 19:34:56
 ### Personal Pages
 * [Ted's Pilot Page](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html){:target="_blank"} - added 2016.09.29
 * [Andrew's Pilot Page](http://web.archive.org/web/19981206010148/http://www.iosphere.net/~howlett/pilot/){:target="_blank"} - added 2016.10.02
+* [Adam Wozniak's - Palm Dev Forum Frequently Asked Questions List](http://web.archive.org/web/20010224202514/http://wozniak.dnsalias.org/~adam/PalmFAQ.html){:target="_blank"} - added 2016.10.30
 * [Ron Nicholson's Ancient Palm OS Computing Information Page](http://web.archive.org/web/20141224194937/http://www.nicholson.com/rhn/palm.html){:target="_blank"} - added 2016.10.03
 * [Aaron Ardiri's Palm Page](http://web.archive.org/web/20010718130351/http://www.ardiri.com/index.php?redir=palm){:target="_blank"} - added 2016.10.05
 * [Albrecht Schmidt's Pilot Page](http://www.teco.edu/~albrecht/handheld/){:target="_blank"} - added 2016.10.05
