@@ -19,6 +19,7 @@ date:   2016-09-27 19:34:56
 * [Daggerware's software page](http://web.archive.org/web/19980127125152/http://www.daggerware.com/){:target="_blank"} - added 2016.10.29
 * [Jim Rees' software page](http://web.archive.org/web/20161220091747/http://www.citi.umich.edu/u/rees/pilot/){:target="_blank"} - added 2016.12.20
 * [Rumkin's Palm OS Software Page](http://web.archive.org/web/20150916201027/http://rumkin.com/software/palm/){:target="_blank"} - added 2017.03.08
+* [dseifert software production](http://web.archive.org/web/20020803005339/http://www.dseifert.de/){:target="_blank"} - added 2017.03.08
 
 ### Personal Pages
 * [Ted's Pilot Page](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html){:target="_blank"} - added 2016.09.29
