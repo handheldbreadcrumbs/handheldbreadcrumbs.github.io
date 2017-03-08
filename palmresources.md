@@ -20,6 +20,8 @@ date:   2016-09-27 19:34:56
 * [Jim Rees' software page](http://web.archive.org/web/20161220091747/http://www.citi.umich.edu/u/rees/pilot/){:target="_blank"} - added 2016.12.20
 * [Rumkin's Palm OS Software Page](http://web.archive.org/web/20150916201027/http://rumkin.com/software/palm/){:target="_blank"} - added 2017.03.08
 * [dseifert software production](http://web.archive.org/web/20020803005339/http://www.dseifert.de/){:target="_blank"} - added 2017.03.08
+* [Titrax - Time Tracker for the Palm Pilot](http://web.archive.org/web/20040608005141/http://www.titrax.com/){:target="_blank"} - added 2017.03.08
+* [Roguelikes for PalmOS](http://web.archive.org/web/20140730190000/http://roguelike-palm.sourceforge.net/){:target="_blank"} - added 2017.03.08
 
 ### Personal Pages
 * [Ted's Pilot Page](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html){:target="_blank"} - added 2016.09.29
