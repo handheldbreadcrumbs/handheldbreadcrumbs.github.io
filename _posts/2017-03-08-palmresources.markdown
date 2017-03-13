@@ -5,4 +5,4 @@ date:   2017-03-08 23:10:56
 categories: palmos resources
 ---
 
-I wrote my last post almost 6 month ago. Now I have updated [Palm Related Resources](https://handheldbreadcrumbs.github.io/palmresources/){:target="_blank"} page with four links in Software section.
+It was about 6 month ago when I updated palm resource page last time. Now I have added to [Palm Related Resources](https://handheldbreadcrumbs.github.io/palmresources/){:target="_blank"} page four links in Software section.
