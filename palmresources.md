@@ -86,3 +86,4 @@ date:   2016-09-27 19:34:56
 * [David's guide on PalmOS Development on Linux](http://web.archive.org/web/20010224003316/http://lisas.de/~david/palmos/){:target="_blank"} - added 2017.03.12
 * [Determining PalmOS Make and Model at Run Time](http://web.archive.org/web/20070208110924/http://www.mobilegeographics.com/dev/devices.php){:target="_blank"} - added 2017.03.13
 * [CodeWarrior for PalmPilot FAQ, Version 1.0, November 1997](http://web.archive.org/web/19980119061851/http://www.metrowerks.com/games/pilot/faq.html){:target="_blank"} - added 2017.03.13
+* [Palm programming from linux-sxs.org](http://web.archive.org/web/20170315220348/http://linux-sxs.org/non_pc/palmprog.html){:target="_blank"} - added 2017.03.15
