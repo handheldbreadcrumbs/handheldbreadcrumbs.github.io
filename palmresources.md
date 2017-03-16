@@ -11,6 +11,7 @@ date:   2016-09-27 19:34:56
 * [Tech Note 20: Using the Palm OS Emulator (POSE)](http://web.archive.org/web/20161003205104/https://www.nsbasic.com/palm/info/technotes/TN20.htm){:target="_blank"} - added 2016.10.29
 * [USRobotics PalmPilot Personal review](http://web.archive.org/web/20160218185026/http://www.engadget.com/2012/04/01/usrobotics-palmpilot-personal-review/){:target="_blank"} - added 2016.10.29
 * [PFU AMERICA INTRODUCES “HAPPY HACKING CRADLE” FOR THE PALM™ CONNECTED ORGANIZER !](http://web.archive.org/web/20000301200155/http://www.pfuca.com/news/new_crad.html){:target="_blank"} - added 2016.11.04
+* [The Handheld Systems Journal - excerpt](http://web.archive.org/web/19970710163742/http://www.cdpubs.com/excerpts.html){:target="_blank"} - added 2017.03.16
 
 ### Software      
 * [COSMAC ELF](http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm){:target="_blank"} - added 2016.09.29
