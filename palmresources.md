@@ -26,6 +26,7 @@ date:   2016-09-27 19:34:56
 * [AMUG CD PILOT ARCHIVE](http://web.archive.org/web/19970211093211/http://cdrom.amug.org/http/pilot/pilot.html){:target="_blank"} - added 2017.03.12
 * [Holgers Palm Software](http://web.archive.org/web/20160210165417/http://klawitter.de/palm/index.html){:target="_blank"} - added 2017.03.15
 * [Neil Vandyke's T-Map](http://www.neilvandyke.org/t-map/){:target="_blank"} - added 2017.03.15
+* [World Time for the PalmPilot - demo](http://web.archive.org/web/19970710163319/http://www.cdpubs.com/wtime/wtime.html){:target="_blank"} - added 2017.03.16
 
 ### Personal Pages
 * [Ted's Pilot Page](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html){:target="_blank"} - added 2016.09.29
