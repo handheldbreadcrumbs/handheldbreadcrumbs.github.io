@@ -11,6 +11,7 @@ date:   2016-09-27 19:34:56
 * [Tech Note 20: Using the Palm OS Emulator (POSE)](http://web.archive.org/web/20161003205104/https://www.nsbasic.com/palm/info/technotes/TN20.htm){:target="_blank"} - added 2016.10.29
 * [USRobotics PalmPilot Personal review](http://web.archive.org/web/20160218185026/http://www.engadget.com/2012/04/01/usrobotics-palmpilot-personal-review/){:target="_blank"} - added 2016.10.29
 * [PFU AMERICA INTRODUCES “HAPPY HACKING CRADLE” FOR THE PALM™ CONNECTED ORGANIZER !](http://web.archive.org/web/20000301200155/http://www.pfuca.com/news/new_crad.html){:target="_blank"} - added 2016.11.04
+* [The Handheld Systems Journal - excerpt](http://web.archive.org/web/19970710163742/http://www.cdpubs.com/excerpts.html){:target="_blank"} - added 2017.03.16
 
 ### Software      
 * [COSMAC ELF](http://web.archive.org/web/20141224202616/http://www.cosmacelf.com/tinyelf.htm){:target="_blank"} - added 2016.09.29
@@ -25,6 +26,7 @@ date:   2016-09-27 19:34:56
 * [AMUG CD PILOT ARCHIVE](http://web.archive.org/web/19970211093211/http://cdrom.amug.org/http/pilot/pilot.html){:target="_blank"} - added 2017.03.12
 * [Holgers Palm Software](http://web.archive.org/web/20160210165417/http://klawitter.de/palm/index.html){:target="_blank"} - added 2017.03.15
 * [Neil Vandyke's T-Map](http://www.neilvandyke.org/t-map/){:target="_blank"} - added 2017.03.15
+* [World Time for the PalmPilot - demo](http://web.archive.org/web/19970710163319/http://www.cdpubs.com/wtime/wtime.html){:target="_blank"} - added 2017.03.16
 
 ### Personal Pages
 * [Ted's Pilot Page](http://web.archive.org/web/19981203160903/http://web.mit.edu/tytso/www/pilot/index.html){:target="_blank"} - added 2016.09.29
@@ -87,3 +89,4 @@ date:   2016-09-27 19:34:56
 * [Determining PalmOS Make and Model at Run Time](http://web.archive.org/web/20070208110924/http://www.mobilegeographics.com/dev/devices.php){:target="_blank"} - added 2017.03.13
 * [CodeWarrior for PalmPilot FAQ, Version 1.0, November 1997](http://web.archive.org/web/19980119061851/http://www.metrowerks.com/games/pilot/faq.html){:target="_blank"} - added 2017.03.13
 * [Palm programming from linux-sxs.org](http://web.archive.org/web/20170315220348/http://linux-sxs.org/non_pc/palmprog.html){:target="_blank"} - added 2017.03.15
+* [RoadCoders - Development Resources For PalmPilot and Compatibles](http://web.archive.org/web/19980613135039/http://www.roadcoders.com/pilot/){:target="_blank"} - added 2017.03.16
