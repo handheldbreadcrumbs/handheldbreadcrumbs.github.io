@@ -90,3 +90,4 @@ date:   2016-09-27 19:34:56
 * [CodeWarrior for PalmPilot FAQ, Version 1.0, November 1997](http://web.archive.org/web/19980119061851/http://www.metrowerks.com/games/pilot/faq.html){:target="_blank"} - added 2017.03.13
 * [Palm programming from linux-sxs.org](http://web.archive.org/web/20170315220348/http://linux-sxs.org/non_pc/palmprog.html){:target="_blank"} - added 2017.03.15
 * [RoadCoders - Development Resources For PalmPilot and Compatibles](http://web.archive.org/web/19980613135039/http://www.roadcoders.com/pilot/){:target="_blank"} - added 2017.03.16
+* [Guikachu - a resource editor for PalmOS](http://web.archive.org/web/20010603185619/http://cactus.rulez.org/projects/guikachu/){:target="_blank"} - added 2017.03.27
