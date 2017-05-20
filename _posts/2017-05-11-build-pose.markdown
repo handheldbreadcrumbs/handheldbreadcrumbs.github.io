@@ -13,3 +13,16 @@ First of all we need to install debootstrap if not done already. On Debian or Ub
 sudo apt-get install debootstrap
 {% endhighlight %}
 
+Before proceeding to install anything set variable for absolute path for chroot environment where all files will be stored
+{% highlight bash %}
+export MY_CHROOT=/home/$USER/debian.4.0-etch
+{% endhighlight %}
+create a directory where to store all environment files
+{% highlight bash %}
+mkdir $MY_CHROOT
+{% endhighlight %}
+install Debian base system
+{% highlight bash %}
+sudo debootstrap --variant=minbase --keyring=/usr/share/keyrings/debian-archive-removed-keys.gpg --verbose --arch i386 etch $MY_CHROOT http://archive.debian.org/debian/
+{% endhighlight %}
+complete install log can be seen in this [gist](https://gist.github.com/handheldbreadcrumbs/af702fabc6f0c4407b059648faa2e5ee#file-debian-base-install-log){:target="_blank"}
