@@ -9,7 +9,9 @@ This is second post in the series of articles about Palm OS Emulator. You can fi
 First of all we need to install debootstrap if not done already. On Debian or Ubuntu it can be done just by running this command from terminal {% highlight bash %}
 sudo apt-get install debootstrap
 {% endhighlight %}
-Before proceeding to install anything let's set variable for absolute path to chroot environment where all files will be stored {% highlight bash %}
+Before proceeding to install anything let's set variable for absolute path to chroot environment where all files will be stored.
+In chroot environment I'll be installing Debian GNU/Linux 4.0 - "Etch"
+{% highlight bash %}
 export MY_CHROOT=/home/$USER/debian.4.0-etch
 {% endhighlight %}
 let's create a directory where to store all environment files
@@ -22,7 +24,7 @@ sudo debootstrap --variant=minbase --keyring=/usr/share/keyrings/debian-archive-
 {% endhighlight %}
 Complete install log can be seen in this [gist](https://gist.github.com/handheldbreadcrumbs/af702fabc6f0c4407b059648faa2e5ee#file-debian-base-install-log){:target="_blank"}. After successful installation everything should be in debian.4.0-etch directory under home folder of current user, then I am running a command with a specified root directory. Specified root directory is $MY_CHROOT and command is not specified explicitly and it defaults to $SHELL, in my case it is /bin/bash, that is invoked with the -i option.
  
-In short I am running this command below
+In short I am running this line below
 {% highlight bash %}
 sudo chroot $MY_CHROOT
 {% endhighlight %}
@@ -33,9 +35,11 @@ gcc-2.95
 g++-2.95 
 # utility to list, test and extract compressed files in a ZIP archive
 unzip
-build-essential #  
+# package that includes compilers, libraries and utils needed to compile a debian package 
+build-essential
+# Development files for the X.Org X server
 xorg-dev
-    
+# a generic library support script    
 libtool
 # tool used to generate configuration scripts
 autoconf
@@ -46,6 +50,7 @@ less
 # Vi IMproved, a programmers text editor
 vim
 {% endhighlight %}
+in order to install packages from above list I am running this command below inside chroot environment
 {% highlight bash %}
 apt-get update && apt-get install -y gcc-2.95 g++-2.95 unzip build-essential xorg-dev libtool autoconf automake less vim
 {% endhighlight %}
@@ -117,4 +122,6 @@ chswj:~# export MYBUILDENV="/root/buildenv"
 chswj:~# mkdir $MYBUILDENV
 chswj:~#
 {% endhighlight %}
+So far so good. These are sufficient steps for build environment setup.
+Further actions will be described in next post.
 
